@@ -1,0 +1,7 @@
+.navbar  .nav-item .active{
+    background-color:  black;
+    color: #fff;
+}
+.navbar  .nav-item{
+    transition: 1s ease;
+}

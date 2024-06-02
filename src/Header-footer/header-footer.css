@@ -1,0 +1,10 @@
+.header .nav-item a{
+    color: hsl(0, 3%, 18%);
+    padding: 10px;
+    text-decoration: none;
+    margin: 0 5px;
+}
+.header .nav-item a.active{
+    background: hsl(0, 3%, 18%);
+    color: #fff;
+}
